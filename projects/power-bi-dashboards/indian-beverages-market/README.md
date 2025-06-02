@@ -41,7 +41,7 @@ To analyze beverage sales data using Power BI and generate meaningful business i
 
 ## 📽️ Demo
 
-Watch the full dashboard walkthrough video on [LinkedIn](https://www.linkedin.com/in/rachit-shukla-895559152/](https://www.linkedin.com/posts/activity-7335020992651542530-ZCcz?utm_source=share&utm_medium=member_desktop&rcm=ACoAACS-srEBBSbkJlewDFTWke88e92T9UrR_5M)
+Watch the full dashboard walkthrough video on [LinkedIn](https://www.linkedin.com/posts/activity-7335020992651542530-ZCcz?utm_source=share&utm_medium=member_desktop&rcm=ACoAACS-srEBBSbkJlewDFTWke88e92T9UrR_5M)
 
 ---
 
