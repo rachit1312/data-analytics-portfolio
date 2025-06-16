@@ -1,54 +1,81 @@
-📊 Rachit's Data Analytics Portfolio
-Welcome to my Data Analytics portfolio! This repository showcases my growing expertise in data cleaning, analysis, and visualization using tools like Excel, Power BI, SQL, and Python.
+# 📊 Rachit Shukla – Data Analytics Portfolio
 
-📂 Current Projects: Excel
-The Excel Projects folder includes:
+Welcome to my personal Data Analytics portfolio!  
+This repository showcases hands-on projects built using **Excel** and **Power BI**, focused on real-world datasets and business logic. I'm expanding into **SQL** and **Python** as part of my journey toward becoming a full-stack data analyst.
 
-Data Cleaning Projects
-Focused on refining, formatting, and structuring raw datasets for reliable analysis using Excel formulas, Power Query, and data validation techniques.
+---
 
-Data Analysis & Visualization Projects
-Highlighting insights through Pivot Tables, charts, conditional formatting, and business-driven storytelling using Excel dashboards.
+## 📂 Current Projects
 
-🚀 Upcoming Projects (Coming Soon)
-Power BI Dashboards – Interactive dashboards with business insights
+### 🧹 Excel Data Cleaning
 
-SQL Queries & Analysis – Data manipulation and extraction using MySQL/PostgreSQL
+- **Streamlining Business Metrics**  
+  Refined raw business data with cleaning functions, text formatting, error handling (`IFERROR`), and header standardization.
 
-Python Scripts for EDA – Basic data wrangling and visualization using Pandas, Matplotlib, Seaborn
+- **Global Billionaire Rankings Dataset**  
+  Cleaned and aligned a global wealth dataset for improved readability, formatting, and demographic analysis.
 
-Freelance Projects – Real-world problem-solving and custom analytics solutions
+---
 
-🛠 Tools & Technologies
-Excel – Power Query, Pivot Tables, IFs, INDEX/MATCH, Conditional Formatting
+### 📊 Excel Data Analysis & Visualization
 
-Power BI (Coming Soon)
+- **E-commerce Sales Insights**  
+  Analyzed 100 online transactions using Pivot Tables, regional filters, and business-style dashboards.
 
-SQL (MySQL & PostgreSQL) (Coming Soon)
+- **India’s CPI Analysis**  
+  Explored inflation trends through YoY, MoM, and correlation charts — built a storytelling-style Excel visual dashboard with economic context.
 
-Python (Pandas, NumPy, Matplotlib) (Coming Soon)
+- **Revenue Analysis with Power Query**  
+  Full Excel workflow including cleaning, analysis, and dashboarding for a sales dataset using Power Query and Excel formulas.
 
-🤝 Let’s Connect
-I’m actively building my portfolio and open to internships, freelance work, and entry-level data analyst roles.
-Feel free to explore the projects and reach out if you'd like to collaborate or connect!
+---
+
+### 📊 Power BI Projects
+
+- **Indian Beverage Market Dashboard**  
+  Localized dashboard with Indian city data, rupee formatting, and product-wise performance tracking.
+
+- **Indian Smartphone Market (2025 - Simulated)**  
+  Used a Decomposition Tree to analyze synthetic smartphone sales data by region, city, and brand.
+
+---
+
+## 🚀 Upcoming Projects
+
+- **SQL Analysis Projects** – MySQL/PostgreSQL-based queries, joins, aggregations  
+- **Python for EDA** – Data cleaning, visualization using Pandas, Matplotlib, Seaborn  
+- **Freelance Projects** – Real-world client data cleaning and business reporting
+
+---
+
+## 🛠 Tools & Technologies
+
+- **Excel**: Power Query, Pivot Tables, IF/INDEX/MATCH, Conditional Formatting  
+- **Power BI**: DAX, Maps, Decomposition Tree, Slicers  
+- **SQL**: Coming Soon  
+- **Python**: Coming Soon
+
+---
+
+## 🤝 Let’s Connect
+
+I’m actively building this portfolio and open to:
+- 📈 Freelance Projects  
+- 🧑‍💼 Entry-level Data Analyst Roles  
+- 🤝 Collaboration & Learning Opportunities
+
+Feel free to reach out if you’d like to collaborate or need help with data!
+
+📧 Email: [rachit.shukla1312@gmail.com]  
+🔗 LinkedIn: [https://www.linkedin.com/in/rachit-shukla-895559152/]  
+💼 Upwork: [https://www.upwork.com/freelancers/~01708387cc59c25d30?viewMode=1]
 
 ---
 
 ## 📄 License
 
-This repository is licensed under the MIT License - copyright 2025.
+This repository is licensed under the **MIT License** – © 2025 Rachit Shukla.
 
 ---
 
-## 📬 Contact
-
-If you'd like to connect or have any questions about the projects, feel free to reach out:
-
-- Upwork: [https://www.upwork.com/freelancers/~01708387cc59c25d30?viewMode=1]
-- Email: [rachit.shukla1312@gmail.com]
-- LinkedIn: [https://www.linkedin.com/in/rachit-shukla-895559152/]
-
-
----
-
-Thank you for visiting my portfolio! I look forward to showcasing more of my work as I continue to build my skills and contribute to data-driven decision-making.
+> *Thanks for visiting my portfolio! More projects coming soon as I continue growing in the field of data analytics.*
