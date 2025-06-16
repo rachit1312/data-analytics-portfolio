@@ -50,7 +50,7 @@ This repository showcases hands-on projects built using **Excel** and **Power BI
 
 ## 🛠 Tools & Technologies
 
-- **Excel**: Power Query, Pivot Tables, IF/INDEX/MATCH, Conditional Formatting  
+- **Excel**: Power Query, Pivot Tables, IF, SUM, IFERROR, CORREL, FORMULATEXT, Conditional Formatting, Moving Average
 - **Power BI**: DAX, Maps, Decomposition Tree, Slicers  
 - **SQL**: Coming Soon  
 - **Python**: Coming Soon
@@ -66,9 +66,9 @@ I’m actively building this portfolio and open to:
 
 Feel free to reach out if you’d like to collaborate or need help with data!
 
-📧 Email: [rachit.shukla1312@gmail.com]  
-🔗 LinkedIn: [https://www.linkedin.com/in/rachit-shukla-895559152/]  
-💼 Upwork: [https://www.upwork.com/freelancers/~01708387cc59c25d30?viewMode=1]
+📧 Email: [rachit.shukla1312@gmail.com](mailto:rachit.shukla1312@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/rachit-shukla-895559152](https://www.linkedin.com/in/rachit-shukla-895559152/)  
+💼 Upwork: [upwork.com/freelancers/~01708387cc59c25d30](https://www.upwork.com/freelancers/~01708387cc59c25d30?viewMode=1)
 
 ---
 
