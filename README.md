@@ -1,59 +1,75 @@
 # 📊 Rachit Shukla – Data Analytics Portfolio
 
 Welcome to my personal Data Analytics portfolio!  
-This repository showcases hands-on projects built using **Excel** and **Power BI**, focused on real-world datasets and business logic. I'm expanding into **SQL** and **Python** as part of my journey toward becoming a full-stack data analyst.
+This repository showcases hands-on projects using **Excel**, **Power BI**, and **Alteryx**, focused on solving real-world business problems.  
+📺 I also run a YouTube channel — **Data Gyaan by Rachit** — where I share tutorials and insights to help others learn data skills faster.
+
+I’m currently expanding into **SQL**, **Python**, and **Cloud Analytics (GCP & Azure)** as part of my journey to become a full-stack data professional.
 
 ---
 
-## 📂 Current Projects
+## 📂 Projects Overview
 
 ### 🧹 Excel Data Cleaning
 
 - **Streamlining Business Metrics**  
-  Refined raw business data with cleaning functions, text formatting, error handling (`IFERROR`), and header standardization.
+  Cleaned raw business data using functions like `IFERROR`, text formatting, and header standardization to ensure consistency.
 
 - **Global Billionaire Rankings Dataset**  
-  Cleaned and aligned a global wealth dataset for improved readability, formatting, and demographic analysis.
+  Reformatted and aligned global wealth data for better readability and meaningful demographic insights.
 
 ---
 
 ### 📊 Excel Data Analysis & Visualization
 
 - **E-commerce Sales Insights**  
-  Analyzed 100 online transactions using Pivot Tables, regional filters, and business-style dashboards.
+  Analyzed online sales using Pivot Tables, region-wise segmentation, and interactive Excel dashboards.
 
 - **India’s CPI Analysis**  
-  Explored inflation trends through YoY, MoM, and correlation charts — built a storytelling-style Excel visual dashboard with economic context.
+  Created a storytelling-style dashboard to visualize inflation trends (YoY, MoM) using correlation charts and economic commentary.
 
 - **Revenue Analysis with Power Query**  
-  Full Excel workflow including cleaning, analysis, and dashboarding for a sales dataset using Power Query and Excel formulas.
+  End-to-end Excel workflow from data cleaning to visualization using Power Query, formulas, and dashboards.
 
 ---
 
-### 📊 Power BI Projects
+### 📈 Power BI Dashboards
 
 - **Indian Beverage Market Dashboard**  
-  Localized dashboard with Indian city data, rupee formatting, and product-wise performance tracking.
+  Localized visual report with Indian states, city-wise sales, rupee formatting, and product-level breakdown.
 
-- **Indian Smartphone Market (2025 - Simulated)**  
-  Used a Decomposition Tree to analyze synthetic smartphone sales data by region, city, and brand.
+- **Indian Smartphone Market (2025 – Simulated)**  
+  Region-wise sales performance analyzed using Decomposition Tree, slicers, and brand-wise KPIs.
 
 ---
 
-## 🚀 Upcoming Projects
+### 🔧 Alteryx Data Preparation Workflows
 
-- **SQL Analysis Projects** – MySQL/PostgreSQL-based queries, joins, aggregations  
-- **Python for EDA** – Data cleaning, visualization using Pandas, Matplotlib, Seaborn  
-- **Freelance Projects** – Real-world client data cleaning and business reporting
+- **Clean & Transform Business Data (Datacamp Project)**  
+  Built a complete workflow using tools like **Select**, **Sort**, **Filter (AND/OR)**, **Formula**, **Summarize**, and **Output Data Tool**.  
+  Learned to automate repetitive cleaning steps and export clean `.yxdb` datasets efficiently.
+
+---
+
+## 🚧 Upcoming Projects
+
+- **SQL Analysis Projects** – Joins, aggregations, and business queries using MySQL/PostgreSQL  
+- **Python for EDA** – Cleaning, visualization with Pandas, Matplotlib & Seaborn  
+- **GCP Projects** – BigQuery-based dashboards, cloud data workflows, and Looker Studio  
+- **Freelance Projects** – Real-world client data tasks (cleaning, insights, reports)
 
 ---
 
 ## 🛠 Tools & Technologies
 
-- **Excel**: Power Query, Pivot Tables, IF, SUM, IFERROR, CORREL, FORMULATEXT, Conditional Formatting, Moving Average
-- **Power BI**: DAX, Maps, Decomposition Tree, Slicers  
-- **SQL**: Coming Soon  
-- **Python**: Coming Soon
+| Category         | Tools & Skills                                                                 |
+|------------------|--------------------------------------------------------------------------------|
+| **Excel**        | Power Query, Pivot Tables, IF, SUM, IFERROR, CORREL, Conditional Formatting    |
+| **Power BI**     | DAX, Slicers, Decomposition Tree, Data Modeling, KPI Design                    |
+| **Alteryx**      | Designer, Data Cleanse, Formula, Summarize, Filter, Sort, Sample, Output Tool  |
+| **SQL**          | *Coming Soon*                                                                  |
+| **Python**       | *Coming Soon*                                                                  |
+| **Cloud**        | GCP (BigQuery, Cloud Storage), Looker Studio – *Learning Phase*                |
 
 ---
 
@@ -62,13 +78,26 @@ This repository showcases hands-on projects built using **Excel** and **Power BI
 I’m actively building this portfolio and open to:
 - 📈 Freelance Projects  
 - 🧑‍💼 Entry-level Data Analyst Roles  
-- 🤝 Collaboration & Learning Opportunities
-
-Feel free to reach out if you’d like to collaborate or need help with data!
+- 🎓 Content Collaboration or Guest Teaching  
+- 🧠 Data + AI Exploration in Excel, Power BI & Cloud
 
 📧 Email: [rachit.shukla1312@gmail.com](mailto:rachit.shukla1312@gmail.com)  
 🔗 LinkedIn: [linkedin.com/in/rachit-shukla-895559152](https://www.linkedin.com/in/rachit-shukla-895559152/)  
 💼 Upwork: [upwork.com/freelancers/~01708387cc59c25d30](https://www.upwork.com/freelancers/~01708387cc59c25d30?viewMode=1)
+
+---
+
+## 📺 YouTube – Data Gyaan by Rachit
+
+I'm sharing practical, beginner-friendly videos on:
+
+- 📊 Excel & Power BI Projects  
+- 🤖 AI Tools for Data Analysts (e.g., ChatGPT for Excel)  
+- 🧠 Data Insights explained in Hindi  
+- 🧰 Tool integrations, dashboard building & more  
+
+🎥 Check out the channel here:  
+👉 [Data Gyaan by Rachit – YouTube](https://www.youtube.com/@datagyaanbyrachit)
 
 ---
 
@@ -78,4 +107,4 @@ This repository is licensed under the **MIT License** – © 2025 Rachit Shukla.
 
 ---
 
-> *Thanks for visiting my portfolio! More projects coming soon as I continue growing in the field of data analytics.*
+> *Thanks for visiting my portfolio! More exciting cloud and SQL projects coming soon — stay tuned!*
