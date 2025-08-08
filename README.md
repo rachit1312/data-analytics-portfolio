@@ -82,7 +82,7 @@ I’m actively building this portfolio and open to:
 - 🧠 Data + AI Exploration in Excel, Power BI & Cloud
 
 📧 Email: [rachit.shukla1312@gmail.com](mailto:rachit.shukla1312@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/rachit-shukla-895559152](https://www.linkedin.com/in/rachit-shukla-895559152/)  
+🔗 LinkedIn: [linkedin.com/in/rachit-shukla-895559152](https://www.linkedin.com/in/rachitshukla1312/)  
 💼 Upwork: [upwork.com/freelancers/~01708387cc59c25d30](https://www.upwork.com/freelancers/~01708387cc59c25d30?viewMode=1)
 
 ---
