@@ -2,7 +2,7 @@
 
 Welcome to my personal Data Analytics portfolio!  
 This repository showcases hands-on projects using **Excel**, **Power BI**, and **Alteryx**, focused on solving real-world business problems.  
-📺 I also run a YouTube channel — **Data Gyaan by Rachit** — where I share tutorials and insights to help others learn data skills faster.
+📺 I also run a YouTube channel — **Data Gyan by Rachit** — where I share tutorials and insights to help others learn data skills faster.
 
 I’m currently expanding into **SQL**, **Python**, and **Cloud Analytics (GCP & Azure)** as part of my journey to become a full-stack data professional.
 
@@ -87,7 +87,7 @@ I’m actively building this portfolio and open to:
 
 ---
 
-## 📺 YouTube – Data Gyaan by Rachit
+## 📺 YouTube – Data Gyan by Rachit
 
 I'm sharing practical, beginner-friendly videos on:
 
@@ -97,7 +97,7 @@ I'm sharing practical, beginner-friendly videos on:
 - 🧰 Tool integrations, dashboard building & more  
 
 🎥 Check out the channel here:  
-👉 [Data Gyaan by Rachit – YouTube](https://www.youtube.com/@datagyaanbyrachit)
+👉 [Data Gyaan by Rachit – YouTube](https://www.youtube.com/@datagyanbyrachit)
 
 ---
 
